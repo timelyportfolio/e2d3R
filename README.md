@@ -13,7 +13,9 @@ devtools::install_github("timelyportfolio/e2d3R")
 
 ## Example
 
-As I mentioned above, I really only have experiments now.  Please see https://github.com/timelyportfolio/e2d3R/.
+As I mentioned above, I really only have experiments now.  Please see [examples](https://github.com/timelyportfolio/e2d3R/tree/master/inst/examples).
+
+See [here for a live example](https://timelyportfolio.github.io/e2d3R/).
 
 ## Code of Conduct
 
